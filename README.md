@@ -16,14 +16,18 @@
 - copy second clipboard from your repository's page, paste into terminal
 - work away!
 
+- * Use git remote -v * << this will show you what remotes you have set up
+
 ### How to commit?
 
-- git add (-A, -p, .)
+- git add (-A, -p, ., file_name, --help)
 - git commit -m"I am a commit message"
 - git push origin master
 
 ### Practice
 
+- main branch is always called master
+- the branch we are currently on is called HEAD
 - http://www.wei-wang.com/ExplainGitWithD3/#
 
 ## WORKFLOW
