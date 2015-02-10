@@ -22,9 +22,14 @@
 
 - git add (-A, -p, ., file_name, --help)
 - git commit -m"I am a commit message"
+- repeat until a feature is done
 - git push origin master
 
 - Writing good commit messages: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
+
+### Shelby, do I have to push to Github to push to Heroku?!
+
+ - No! But I would, to keep your versions in sync.
 
 ### Practice
 
