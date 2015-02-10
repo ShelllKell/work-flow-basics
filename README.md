@@ -16,6 +16,7 @@
 - copy second clipboard from your repository's page, paste into terminal
 - work away!
 
+
 - *Use git remote -v*  << this will show you what remotes you have set up
 
 ### How to commit?
@@ -24,6 +25,7 @@
 - git commit -m"I am a commit message"
 - repeat until a feature is done
 - git push origin master
+
 
 - Writing good commit messages: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 
